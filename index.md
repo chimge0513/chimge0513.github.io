@@ -5,7 +5,7 @@
 
 ### **About Me**
 
-My name is Chimge Tsendnyam. I was born in Ulaanbaatar, Mongolia and moved to the U.S. when I was 15. I currently work as an IT Procurement Specialist at Discover Financial Services. I live with my husband, dog and turtle in the northwest suburbs of Chicago. In my free time, I like cooking, going to the gym, listening to podcasts, reading books and working on projects. 
+My name is Chimge Tsendnyam. I was born in Ulaanbaatar, Mongolia and moved to the U.S. when I was 15. I currently work as an IT Procurement Operations Specialist at Discover Financial Services. I live with my husband, dog and turtle in the northwest suburbs of Chicago. In my free time, I like cooking, going to the gym, listening to podcasts, reading books and working on projects. 
 Ever since I was a kid, I loved math, statistics and computer science courses. I wish I had taken more of them. I went to a small liberal arts college, Illinois College for my undergraduate and studied Economics, Finance and International Studies. In senior year of my college, I went to study abroad in Geneva Switzerland to study Swiss banking system and their corporate social responsibilities. When I entered the corporate world as a budget analyst, I realized how much I loved working with large and complex data. 
 
 In 2019, I decided to do my M.S. in Data Science with Bellevue University. Every single course left me hungry to learn more and inspired me to work on variety of data science projects. As I’m on this journey to become a data scientist, I’m excited to share some of my work with you. 
@@ -14,11 +14,11 @@ In 2019, I decided to do my M.S. in Data Science with Bellevue University. Every
 
 ### **Project Portfolio**
 
-- Statistical Test & Analysis Using R (Dataset: "Udemy Courses")
-- Exploratory Data Analysis Using Python (Dataset: "US Shootings")
-- Data Wrangling & Joins in Databases Using Python (Dataset: Gender Pay Gap)
-- Classification Modeling Using Python (Dataset: HR Analytics: "Job Change of Data Scientists")
-- Predictive Analytics using Python (Dataset: "Housing Price Prediction")
+- [Statistical Test & Analysis Using R (Dataset: "Udemy Courses")](https://github.com/chimge0513/Statistical_Tests_Using_R)
+- [Exploratory Data Analysis Using Python (Dataset: "US Shootings")](https://github.com/chimge0513/Exploratory_Data_Analysis_Using_Python)
+- [Data Wrangling & Joins in Databases Using Python (Dataset: Gender Pay Gap)](https://github.com/chimge0513/Data_Preparation_Using_Python-)
+- [Classification Modeling Using Python (Dataset: HR Analytics: "Job Change of Data Scientists")](https://github.com/chimge0513/Classification_Modeling_Using_Python)
+- [Predictive Analytics using Python (Dataset: "Housing Price Prediction")](https://github.com/chimge0513/Predictive_Analytics_Using_Python)
 - Presentation & Infographics on Aviation Safety & Statistics (Dataset: Airline Industry Data)
 - Visualizations of various charts and graphs (Dataset: Various datasets)
 - Customer Segmentation & Clustering Analysis (Dataset: Customer Personality Analysis)
