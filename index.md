@@ -1,37 +1,36 @@
-## Welcome to GitHub Pages
+# **Welcome to My Portfolio**
 
-You can use the [editor on GitHub](https://github.com/chimge0513/chimge0513.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### **About Me**
 
-```markdown
-Syntax highlighted code block
+My name is Chimge Tsendnyam. I was born in Ulaanbaatar, Mongolia and moved to the U.S. when I was 15. I currently work as an IT Procurement Specialist at Discover Financial Services. I live with my husband, dog and turtle in the northwest suburbs of Chicago. In my free time, I like cooking, going to the gym, listening to podcasts, reading books and working on projects. 
+Ever since I was a kid, I loved math, statistics and computer science courses. I wish I had taken more of them. I went to a small liberal arts college, Illinois College for my undergraduate and studied Economics, Finance and International Studies. In senior year of my college, I went to study abroad in Geneva Switzerland to study Swiss banking system and their corporate social responsibilities. When I entered the corporate world as a budget analyst, I realized how much I loved working with large and complex data. 
 
-# Header 1
-## Header 2
-### Header 3
+In 2019, I decided to do my M.S. in Data Science with Bellevue University. Every single course left me hungry to learn more and inspired me to work on variety of data science projects. As I’m on this journey to become a data scientist, I’m excited to share some of my work with you. 
 
-- Bulleted
-- List
+![C28B72AE-D0AC-4EFC-AEC7-5E331C2750A8_1_105_c](https://user-images.githubusercontent.com/58236015/153732061-3c6b640f-e921-49c9-ac93-3531909c4dbd.jpeg)
 
-1. Numbered
-2. List
+### **Project Portfolio**
 
-**Bold** and _Italic_ and `Code` text
+- Statistical Test & Analysis Using R (Dataset: "Udemy Courses")
+- Exploratory Data Analysis Using Python (Dataset: "US Shootings")
+- Data Wrangling & Joins in Databases Using Python (Dataset: Gender Pay Gap)
+- Classification Modeling Using Python (Dataset: HR Analytics: "Job Change of Data Scientists")
+- Predictive Analytics using Python (Dataset: "Housing Price Prediction")
+- Presentation & Infographics on Aviation Safety & Statistics (Dataset: Airline Industry Data)
+- Visualizations of various charts and graphs (Dataset: Various datasets)
+- Customer Segmentation & Clustering Analysis (Dataset: Customer Personality Analysis)
+- Text Classificaiton & Sentiment Analysis (Dataset: Amazon Pet Supplies Review)
 
-[Link](url) and ![Image](src)
-```
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+### **Support or Contact**
 
-### Jekyll Themes
+You can contact me via LinkedIn: https://www.linkedin.com/in/chimge0513 or via my email at etsendnyam@gmail.com
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/chimge0513/chimge0513.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
-### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+
+
+
