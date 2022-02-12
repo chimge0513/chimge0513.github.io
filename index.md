@@ -17,7 +17,7 @@ In 2019, I decided to do my M.S. in Data Science with Bellevue University. Every
 - [Statistical Test & Analysis Using R (Dataset: "Udemy Courses")](https://github.com/chimge0513/Statistical_Tests_Using_R)
 - [Exploratory Data Analysis Using Python (Dataset: "US Shootings")](https://github.com/chimge0513/Exploratory_Data_Analysis_Using_Python)
 - [Data Wrangling & Joins in Databases Using Python (Dataset: Gender Pay Gap)](https://github.com/chimge0513/Data_Preparation_Using_Python-)
-- [Classification Modeling Using Python (Dataset: HR Analytics: "Job Change of Data Scientists")(https://github.com/chimge0513/Classification_Modeling_Using_Python)
+- [Classification Modeling Using Python (Dataset: HR Analytics: "Job Change of Data Scientists")](https://github.com/chimge0513/Classification_Modeling_Using_Python)
 - [Predictive Analytics using Python (Dataset: "Housing Price Prediction")](https://github.com/chimge0513/Predictive_Analytics_Using_Python)
 - Presentation & Infographics on Aviation Safety & Statistics (Dataset: Airline Industry Data)
 - Visualizations of various charts and graphs (Dataset: Various datasets)
