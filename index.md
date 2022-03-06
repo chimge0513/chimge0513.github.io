@@ -19,10 +19,12 @@ In 2019, I decided to do my M.S. in Data Science with Bellevue University. Every
 - [Data Wrangling & Joins in Databases Using Python (Dataset: Gender Pay Gap)](https://github.com/chimge0513/Data_Preparation_Using_Python-)
 - [Classification Modeling Using Python (Dataset: HR Analytics: "Job Change of Data Scientists")](https://github.com/chimge0513/Classification_Modeling_Using_Python)
 - [Predictive Analytics using Python (Dataset: "Housing Price Prediction")](https://github.com/chimge0513/Predictive_Analytics_Using_Python)
-- Presentation & Infographics on Aviation Safety & Statistics (Dataset: Airline Industry Data)
-- Visualizations of various charts and graphs (Dataset: Various datasets)
-- Customer Segmentation & Clustering Analysis (Dataset: Customer Personality Analysis)
-- Text Classificaiton & Sentiment Analysis (Dataset: Amazon Pet Supplies Review)
+- [Airline Safety & Statistics Presentation & Blogpost (Dataset: Airline Industry Data)](https://github.com/chimge0513/Airline_Safety_And_Statistics_Presentation-Blogpost)
+- [Is Flying Safe? (Infograpgic)](https://github.com/chimge0513/Flying_Is_Safe_Infographic)
+- [Visualizations of various charts and graphs using Python/R/Tableau (Dataset: Various datasets)](https://github.com/chimge0513/Various_graphs_and_charts_using_Python-R-Tableau)
+- [Customer Segmentation & Clustering Analysis (Dataset: Customer Personality Analysis)](https://github.com/chimge0513/Customer_Segmentation_Analysis_Using_Python)
+- [Text Classificaton & Sentiment Analysis (Dataset: Amazon Pet Supplies Review)](https://github.com/chimge0513/Text_Classification_And_Sentiment_Analysis_Using_Python)
+- [Medical Cost Regression Analysis (Dataset: Insurance)](https://github.com/chimge0513/Medical_Cost_Regression_Analysis)
 
 
 ### **Support or Contact**
